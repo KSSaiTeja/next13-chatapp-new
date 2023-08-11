@@ -78,7 +78,4 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
-# next13.4-new-chat-app-v6
-# next13.4-new-chat-app-v6
-# chatverse-v6-new
-# chatverse-v6-new
+
